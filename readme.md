@@ -1,6 +1,6 @@
 # 🖨️ Impressão Automática de Imagens com Python
 
-### Este projeto monitora uma pasta específica no seu sistema. Sempre que uma nova imagem (`.jpg`) for adicionada, ela será automaticamente enviada para a impressora padrão (como a **Fujifilm ASK-300**) **sem confirmação do usuário**.
+### Este projeto monitora uma pasta específica no seu sistema. Sempre que uma nova imagem (`.jpg`) for adicionada, ela será automaticamente enviada para a impressora padrão **sem confirmação do usuário**.
 ---
 
 ## ✅ Requisitos
